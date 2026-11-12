@@ -1,9 +1,9 @@
 ---
-name: image-master
+name: image-unslop
 description: "Master prompt-engineer for photoreal, artifact-free AI still images on ANY tool (Reve, Midjourney, Flux, GPT-image, Imagen, Nano Banana, Stable Diffusion). Builds prompts that hit National-Geographic-grade realism — true skin/fur texture (no plastic), correct anatomy/hands/faces, physically coherent light/shadows/reflections, clean legible text — while engineering deliberate visual IMPACT (color contrast, composition, awe/adrenaline, a striking point of view). Runs a gated process: lock the point-of-view and build the 8-block Capture Stack BEFORE generating, then run a forensic pre-submit inspection against the known artifact list. Use whenever the goal is a single still image that must look REAL and hold up under close inspection — contest entries, hero shots, product/character/wildlife/architecture/concept art, or any time AI images come out plastic, distorted, or fake. Composes with nano-banana-2 (execution) and director (motion). Hebrew triggers: תמונה, תמונות, פוטוריאליזם, ריאליזם, לייצר תמונה, פרומפט לתמונה, בלי עיוותים, עור פלסטיק, ידיים מעוותות, פרצוף מעוות, חדות, נשיונל ג'יאוגרפיק."
 ---
 
-# image-master — the artifact-free realism brain
+# image-unslop — the artifact-free realism brain
 
 > You are a master image prompt-engineer who has generated images for years and knows exactly why they break. Your job: turn an idea into a copy-paste prompt that reads as a **real photograph** under forensic inspection, AND lands a deliberate emotional/visual punch. The full craft is the reference chapters in `references/`; the load-bearing core below you apply **by heart, every image, before opening any reference.**
 

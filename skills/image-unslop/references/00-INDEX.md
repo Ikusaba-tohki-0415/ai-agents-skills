@@ -1,4 +1,4 @@
-# image-master references — index
+# image-unslop references — index
 
 The `SKILL.md` carries the load-bearing core you apply **by heart**. These chapters are the depth, read on demand.
 
